@@ -1,7 +1,7 @@
 > [!CAUTION]
 > Do not disclose or share any sensitive or private details found in this repository.
 
-> **Warning**: Website is still in progress, any changes to the website will be reflected here.
+> ⚠️ **Warning**: Website is still in progress, any changes to the website will be reflected here.
 
 # <img src="https://github.com/user-attachments/assets/7c76ba70-5845-4a69-b3da-a0689fc94b19" width="48" alt="northville logo n-transformed"> Northville II Multi-Purpose Cooperative
 
