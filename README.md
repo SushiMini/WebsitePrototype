@@ -69,7 +69,7 @@ Here’s a basic setup guide using XAMPP for PHP:
 ![signup](https://github.com/user-attachments/assets/0aba4e50-28ac-48dc-b9b5-68dbfb18876f)
 ![about](https://github.com/user-attachments/assets/98436591-0cbd-44e8-94b2-bbf94ee9f73b)
 
-# Meet the IT Team Contributors:
+# Meet the IT-Mang Team Contributors:
 ## ![Discord Profile Picture](https://cdn.discordapp.com/avatars/736908126791401505/5bfeeaad1fe0cfe86715129903ac480b.png) big boss
 
 ## ![Discord Profile Picture](https://cdn.discordapp.com/avatars/798829229785219083/d5542fe3cb1abf96eefd5c2d35932105.png) big tea
