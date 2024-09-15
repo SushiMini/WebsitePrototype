@@ -1,30 +1,21 @@
 > [!CAUTION]
 > Do not disclose or share any sensitive or private details found in this repository.
 
-# <img width="48" ![alt text](<northville logo n-transformed.png>) Northville II Multi-Purpose Cooperative
+# <img src="https://github.com/user-attachments/assets/7c76ba70-5845-4a69-b3da-a0689fc94b19" width="48" alt="northville logo n-transformed"> Northville II Multi-Purpose Cooperative
 
-![filterized](https://github.com/user-attachments/assets/1ed8372e-9eb1-418e-932b-9b26221b0278)
+
+![filterized](https://github.com/user-attachments/assets/a8a78dc2-1569-40d1-88d1-580ac839b75e)
 
 Explaining what a cooperative is: Cooperatives are people-centred enterprises owned, controlled and run by and for their members to realise their common economic, social, and cultural needs and aspirations. Cooperatives bring people together in a democratic and equal way.
 
-Running into a problem or need help with something? [Check out our Discord](https://discord.gg/P5UR3S7P). If you can't find anything, or would like to suggest something, please [submit an issue here in our GitHub page issues](https://github.com/SushiSanCat/WebsitePrototype/issues).
+Running into a problem or need help with something? [Check out our Discord](https://discord.gg/P5UR3S7P). If you can't find anything, or would like to suggest something, please [submit an issue here in our GitHub page issues](https://github.com/SushiMini/WebsitePrototype/issues).
  
 
 ## Frequently Asked Questions
 
 **Q: Why is this uploaded on GitHub?**
 
-**A:** Our cooperative is committed to transparency and open collaboration. By hosting our project on GitHub, we achieve several important goals:
-
-**1.** Transparency: Members can easily view and track changes to our website and documentation.
-
-**2.** Collaboration: It allows our members to contribute directly to the project, suggesting improvements or reporting issues.
-
-**3.** Version Control: GitHub provides a robust system for managing different versions of our project.
-
-**4.** Accessibility: Members and potential members can access our information from anywhere, at any time.
-
-**5.** Community Engagement: It opens up possibilities for wider community involvement and feedback.
+**A:** Just incase Discord app or the server itself went down or something, we have a backup plan.
 
 **Q: How do I contribute to the website?**
 
@@ -74,8 +65,9 @@ Here’s a basic setup guide using XAMPP for PHP:
 **6.** Open your web browser and go to http://localhost/yourprojectfolder/index.html to view your HTML page and http://localhost/yourprojectfolder/script.php to view the server-side script.
 
 ## Screenshots
-![login](https://github.com/user-attachments/assets/929637e0-8e06-4baf-8666-ba0baa9bd998)
-![signup](https://github.com/user-attachments/assets/a2a2caf8-af14-4fb2-90dd-f306a0a21d70)
+![login](https://github.com/user-attachments/assets/c4f4a005-4358-48e6-bf75-6b2a37f7987b)
+![signup](https://github.com/user-attachments/assets/0aba4e50-28ac-48dc-b9b5-68dbfb18876f)
+![about](https://github.com/user-attachments/assets/98436591-0cbd-44e8-94b2-bbf94ee9f73b)
 
 # Meet the IT Team Contributors:
 ## ![Discord Profile Picture](https://cdn.discordapp.com/avatars/736908126791401505/5bfeeaad1fe0cfe86715129903ac480b.png) big boss
