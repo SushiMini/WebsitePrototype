@@ -56,7 +56,8 @@ Here’s a basic setup guide using XAMPP for PHP:
 
 **1.** Download & Install XAMPP: https://www.apachefriends.org/
 
-**2.** Navigate to htdocs in the XAMPP installation directory and create a folder for your project. [directory example: C:/xampp/htdocs]
+**2.** Navigate to htdocs in the XAMPP installation directory and create a folder for your project.
+[directory example: C:/xampp/htdocs]
 
 **3.** Create index.html and script.php files in your project folder inside htdocs folder.
 
@@ -66,7 +67,8 @@ Here’s a basic setup guide using XAMPP for PHP:
 
 **6.** Click "Import" tab
 
-**7.** Click "Choose file" and locate "phplogin.sql" on your project folder inside the xampp [directory example: C:/xampp/htdocs/[PROJECTNAME]/database/phplogin.sql]
+**7.** Click "Choose file" and locate "phplogin.sql" on your project folder inside the xampp
+[directory example: C:/xampp/htdocs/[PROJECTNAME]/database/phplogin.sql]
 
 **8.** Scroll down and click "Import" button
 
