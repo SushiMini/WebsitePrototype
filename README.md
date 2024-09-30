@@ -44,7 +44,7 @@ If you're new to GitHub or need more detailed instructions, please check [Contri
  ## Installing
 Download the following:
 
-[WebsitePrototype]([https://github.com/SushiMini/WebsitePrototype/releases]) The website prototype in-progress.
+[WebsitePrototype](https://github.com/SushiMini/WebsitePrototype/releases) The website prototype in-progress.
 
 [XAMPP](https://www.apachefriends.org/) Website uses server-side languages or databases (e.g., PHP, MySQL), you might need a local server setup. (You can also use alternative server-side languages like: [MAMP](https://www.mamp.info/en/windows/) and [WampServer](https://www.wampserver.com/en/))
 
