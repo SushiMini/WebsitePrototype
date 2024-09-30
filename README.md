@@ -76,6 +76,11 @@ Here’s a basic setup guide using XAMPP for PHP:
 ![login](https://github.com/user-attachments/assets/c4f4a005-4358-48e6-bf75-6b2a37f7987b)
 ![signup](https://github.com/user-attachments/assets/0aba4e50-28ac-48dc-b9b5-68dbfb18876f)
 ![about](https://github.com/user-attachments/assets/98436591-0cbd-44e8-94b2-bbf94ee9f73b)
+![add account adminside](https://github.com/user-attachments/assets/0f674fe0-37d6-4a73-beb8-87a6d5daa7fe)
+![adminside](https://github.com/user-attachments/assets/ec522924-11e4-490c-a6b7-8edc5e9b0e33)
+![edit account adminside](https://github.com/user-attachments/assets/3a8883c8-e5b7-4eae-ac0b-2a5ee0472fcd)
+![update balance   payment adminside](https://github.com/user-attachments/assets/9dd2d888-37cd-4c9c-8620-88d07599f389)
+
 
 # Meet the IT-Mang Team Contributors:
 ## ![Discord Profile Picture](https://cdn.discordapp.com/avatars/736908126791401505/5bfeeaad1fe0cfe86715129903ac480b.png) big boss
