@@ -54,15 +54,23 @@ Download the following:
 ## Setup Guide
 Here’s a basic setup guide using XAMPP for PHP:
 
-**1.** Install XAMPP:
+**1.** Download & Install XAMPP: https://www.apachefriends.org/
 
-**2.** Navigate to htdocs in the XAMPP installation directory and create a folder for your project.
+**2.** Navigate to htdocs in the XAMPP installation directory and create a folder for your project. [directory example: C:/xampp/htdocs]
 
-**3.** Create index.html and script.php files in your project folder.
+**3.** Create index.html and script.php files in your project folder inside htdocs folder.
 
 **4.** Open XAMPP Control Panel and start Apache and MySQL.
 
-**5.** Open your web browser and go to http://localhost/yourprojectfolder/index.html to view your HTML page and http://localhost/yourprojectfolder/script.php to view the server-side script.
+**5.** Open your web browser and go to link: http://localhost/phpmyadmin/
+
+**6.** Click "Import" tab
+
+**7.** Click "Choose file" and locate "phplogin.sql" on your project folder inside the xampp [directory example: C:/xampp/htdocs/[PROJECTNAME]/database/phplogin.sql]
+
+**8.** Scroll down and click "Import" button
+
+**9.** Open your web browser and go to http://localhost/yourprojectfolder/index.html to view your HTML page and http://localhost/yourprojectfolder/script.php to view the server-side script.
 
 ## Screenshots
 ![login](https://github.com/user-attachments/assets/c4f4a005-4358-48e6-bf75-6b2a37f7987b)
