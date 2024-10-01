@@ -59,9 +59,9 @@ Here’s a basic setup guide using XAMPP for PHP:
 **2.** Navigate to htdocs in the XAMPP installation directory and create a folder for your project.
 [directory example: C:/xampp/htdocs]
 
-**3.** Create index.html and script.php files in your project folder inside htdocs folder.
+**3.** Create "index.html" and "script.php" files in your project folder inside htdocs folder.
 
-**4.** Open XAMPP Control Panel and start Apache and MySQL.
+**4.** Open "XAMPP Control Panel" and start "Apache" and "MySQL".
 
 **5.** Open your web browser and go to link: http://localhost/phpmyadmin/
 
