@@ -75,8 +75,12 @@ Here’s a basic setup guide using XAMPP for PHP:
 **9.** Open your web browser and go to http://localhost/yourprojectfolder/index.html to view your HTML page and http://localhost/yourprojectfolder/script.php to view the server-side script.
 
 ## Screenshots
-![login](https://github.com/user-attachments/assets/361a326f-1da8-414d-8b1b-79f850954ca4)
-![dashboard](https://github.com/user-attachments/assets/52d87a76-5c99-4f35-adc3-8c49655802ea)
+![admindashboard](https://github.com/user-attachments/assets/ead8cafc-b512-4501-931a-c41350868075)
+![userdashboard](https://github.com/user-attachments/assets/9ed7ae9e-719a-49fa-ba7d-5f67d07f0e24)
+![adminlogin](https://github.com/user-attachments/assets/67156a9d-6ed6-4d6e-b160-9fad6850d2d0)
+![userlogin](https://github.com/user-attachments/assets/66c001ea-e48d-49a4-9f2f-e8450f36af61)
+
+
 
 
 
