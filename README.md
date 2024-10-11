@@ -87,6 +87,6 @@ Here’s a basic setup guide using XAMPP for PHP:
 # Meet the IT-Mang Team Contributors:
 ## ![Discord Profile Picture](https://cdn.discordapp.com/avatars/736908126791401505/5bfeeaad1fe0cfe86715129903ac480b.png) big boss
 
-## ![Discord Profile Picture](https://cdn.discordapp.com/avatars/798829229785219083/d5542fe3cb1abf96eefd5c2d35932105.png) big tea
+## ![049260cb6068b4f44a8af6420961bd70](https://github.com/user-attachments/assets/1426700d-c238-432f-a1f5-d482f5a2725e) big tea
 
 ## ![Discord Profile Picture](https://cdn.discordapp.com/avatars/1144291311692808233/1305d5b700acc981e648993f746cf9a4.png) big hacker
