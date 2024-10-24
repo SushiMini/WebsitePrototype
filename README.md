@@ -76,7 +76,7 @@ Here’s a basic setup guide using XAMPP for PHP:
 
 ## Screenshots
 ![admindashboard](https://github.com/user-attachments/assets/ead8cafc-b512-4501-931a-c41350868075)
-![adminlogin](https://github.com/user-attachments/assets/67156a9d-6ed6-4d6e-b160-9fad6850d2d0)
+![adminlogin](https://github.com/user-attachments/assets/69284bab-d7c9-416f-b049-8c52a48de478)
 ![userlogin](https://github.com/user-attachments/assets/fb6c84b0-a113-4b9f-a7b4-fc7bbef1b016)
 ![userdashboard](https://github.com/user-attachments/assets/b0886f1d-7ad5-4056-9013-c9c073ea7364)
 
