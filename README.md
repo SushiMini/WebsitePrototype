@@ -76,17 +76,16 @@ Here’s a basic setup guide using XAMPP for PHP:
 
 ## Screenshots
 ![admindashboard](https://github.com/user-attachments/assets/ead8cafc-b512-4501-931a-c41350868075)
-![userdashboard](https://github.com/user-attachments/assets/9ed7ae9e-719a-49fa-ba7d-5f67d07f0e24)
 ![adminlogin](https://github.com/user-attachments/assets/67156a9d-6ed6-4d6e-b160-9fad6850d2d0)
-![userlogin](https://github.com/user-attachments/assets/66c001ea-e48d-49a4-9f2f-e8450f36af61)
+![userlogin](https://github.com/user-attachments/assets/fb6c84b0-a113-4b9f-a7b4-fc7bbef1b016)
+![userdashboard](https://github.com/user-attachments/assets/b0886f1d-7ad5-4056-9013-c9c073ea7364)
 
 
 
 
-
-# Meet the IT-Mang Team Contributors:
+# Meet the IT Team Contributors:
 ## ![Discord Profile Picture](https://cdn.discordapp.com/avatars/736908126791401505/5bfeeaad1fe0cfe86715129903ac480b.png) big boss
 
-## ![Discord Profile Picture](https://cdn.discordapp.com/avatars/798829229785219083/049260cb6068b4f44a8af6420961bd70.png) big tea
+## ![Discord Profile Picture](https://cdn.discordapp.com/avatars/798829229785219083/4be6e3b8b94827c99c33a2bd55229874.png) big tea
 
 ## ![Discord Profile Picture](https://cdn.discordapp.com/avatars/1144291311692808233/1305d5b700acc981e648993f746cf9a4.png) big hacker
