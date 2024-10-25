@@ -4,8 +4,8 @@
 > ⚠️ **Warning**: The website is still in progress. Any changes made to the website will be reflected here.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7c76ba70-5845-4a69-b3da-a0689fc94b19" width="290" alt="Northville Logo">
-  <br><strong><span style="font-size: 30px;">Northville II Multi-Purpose Cooperative</span></strong>
+  <img src="https://github.com/user-attachments/assets/7c76ba70-5845-4a69-b3da-a0689fc94b19" width="450" alt="Northville Logo">
+  <br><strong><span style="font-size: 45px;">Northville II Multi-Purpose Cooperative</span></strong>
 </p>
 
 <div align="center">
