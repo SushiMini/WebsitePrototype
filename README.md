@@ -1,5 +1,5 @@
 > [!CAUTION]
-> The only official places to download Bloxstrap are this GitHub repository and 
+> Do not disclose or share any sensitive or private details found in this repository.
 
 > ⚠️ **Warning**: The website is still under development. Any changes made will be reflected here.
 
