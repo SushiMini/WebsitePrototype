@@ -1,0 +1,193 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+*,
+::after,
+::before {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    font-size: 0.875rem;
+    opacity: 1;
+    overflow-y: scroll;
+    margin: 0;
+}
+
+a {
+    cursor: pointer;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+}
+
+li {
+    list-style: none;
+}
+
+h4 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.275rem;
+    color: var(--bs-emphasis-color);
+}
+
+.hidden {
+    display: none;
+}
+
+/* Layout for admin dashboard skeleton */
+
+.wrapper {
+    align-items: stretch;
+    display: flex;
+    width: 100%;
+}
+
+#sidebar {
+    max-width: 264px;
+    min-width: 264px;
+    background: var(--bs-dark);
+    transition: all 0.35s ease-in-out;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    min-width: 0;
+    overflow: hidden;
+    transition: all 0.35s ease-in-out;
+    width: 100%;
+    background: var(--bs-dark-bg-subtle);
+}
+
+/* Sidebar Elements Style */
+
+.sidebar-logo {
+    padding: 1.15rem;
+    text-align: center;
+}
+
+.sidebar-logo a {
+    color: #e9ecef;
+    font-size: 1.15rem;
+    font-weight: 600;
+}
+
+.sidebar-nav {
+    list-style: none;
+    margin-bottom: 0;
+    padding-left: 0;
+    margin-left: 0;
+}
+
+/* Styling the sidebar */
+#sidebar {
+    background-color: #212529; /* Dark background for the sidebar */
+    color: #ccc; /* Default text color */
+    width: 250px;
+    height: 100vh;
+    padding: 20px;
+  }
+  
+  .sidebar-logo a {
+    font-size: 20px;
+    font-weight: bold;
+    color: #fff; /* White color for the logo text */
+    display: block;
+    margin-bottom: 30px;
+    text-decoration: none;
+  }
+  
+  /* Sidebar navigation */
+  .sidebar-nav {
+    list-style: none;
+    padding-left: 0;
+  }
+  
+  .sidebar-header {
+    font-size: 14px;
+    text-transform: uppercase;
+    color: #888; /* Lighter text for headers */
+    margin-bottom: 10px;
+  }
+  
+  /* Sidebar item styling */
+  .sidebar-item {
+    margin-bottom: 10px;
+  }
+
+  /* Blue highlight for the clicked sidebar item */
+.sidebar-link.active {
+    color: #ffffff; /* White text */
+    background-color: #2b3c64; /* Blue highlight background */
+  }
+  
+  /* Sidebar icon with blue color */
+  .sidebar-link.active i {
+    color: #3498db; /* Icon color when active (light blue) */
+  }
+  
+  .sidebar-link {
+    display: flex;
+    align-items: center;
+    padding: 10px 15px;
+    font-size: 16px;
+    text-decoration: none;
+    color: #ccc; /* Default text color */
+    background-color: transparent; /* Default background */
+    border-radius: 8px; /* Rounded corners */
+  }
+  
+  .sidebar-link i {
+    margin-right: 15px;
+    font-size: 20px;
+  }
+  
+  /* Active link styling */
+  .sidebar-link.active {
+    color: #fff; /* Highlighted text color */
+    background-color: #444; /* Highlighted background color */
+  }
+  
+  .sidebar-link:hover {
+    background-color: #333; /* Slight hover effect */
+    color: #fff; /* Hover color */
+  }
+  
+  /* Optional: Add transitions for smooth effect */
+  .sidebar-link, .sidebar-link.active {
+    transition: background-color 0.3s, color 0.3s;
+  }
+  
+
+.sidebar-header {
+    color: #e9ecef;
+    font-size: .75rem;
+    padding: 1.5rem 1.5rem .375rem;
+}
+
+a.sidebar-link {
+    padding: .625rem 1.625rem;
+    color: #e9ecef;
+    position: relative;
+    display: block;
+    font-size: 0.875rem;
+}
+
+.sidebar-link[data-bs-toggle="collapse"]::after {
+    border: solid;
+    border-width: 0 .075rem .075rem 0;
+    content: "";
+    display: inline-block;
+    padding: 2px;
+    position: absolute;
+    right: 1.5rem;
+    top: 1.4rem;
+    transform: rotate(-135deg);
+    transition: all .2s ease-out;
+}
+
+.sidebar-link[data-bs-toggle="collapse"].collapsed::after {
+    transform: rotate(45deg);
+    transition: all .2s ease-out;
+}
