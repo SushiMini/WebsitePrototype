@@ -4,13 +4,19 @@
 > ⚠️ **Warning**: The website is still in progress. Any changes made to the website will be reflected here.
 
 <p align="center">
+
   <img src="https://github.com/user-attachments/assets/7c76ba70-5845-4a69-b3da-a0689fc94b19" width="450" alt="Northville Logo">
-  <br><strong><span style="font-size: 45px;">Northville II Multi-Purpose Cooperative</span></strong>
+
+  ## Northville II Multi-Purpose Cooperative
+
 </p>
 
 <div align="center">
-![downloads](https://github.com/user-attachments/assets/0dd64329-8c6f-484a-84b1-b7067182df3f)[[downloads](https://github.com/SushiMini/WebsitePrototype/releases)]
-![license](https://github.com/user-attachments/assets/5c9965b1-7afb-4972-8f42-1cb106d1bfb3)[license](https://github.com/SushiMini/WebsitePrototype?tab=License-1-ov-file)
+
+[![downloads](https://github.com/user-attachments/assets/0dd64329-8c6f-484a-84b1-b7067182df3f)](https://github.com/SushiMini/WebsitePrototype/releases)
+
+[![license](https://github.com/user-attachments/assets/5c9965b1-7afb-4972-8f42-1cb106d1bfb3)](https://github.com/SushiMini/WebsitePrototype?tab=License-1-ov-file)
+
 </div>
 
 ![Filterized Image](https://github.com/user-attachments/assets/a8a78dc2-1569-40d1-88d1-580ac839b75e)
