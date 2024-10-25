@@ -1,91 +1,79 @@
 > [!CAUTION]
 > Do not disclose or share any sensitive or private details found in this repository.
 
-> ⚠️ **Warning**: Website is still in progress, any changes to the website will be reflected here.
+> ⚠️ **Warning**: The website is still in progress. Any changes made to the website will be reflected here.
 
-# <img src="https://github.com/user-attachments/assets/7c76ba70-5845-4a69-b3da-a0689fc94b19" width="48" alt="northville logo n-transformed"> Northville II Multi-Purpose Cooperative
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7c76ba70-5845-4a69-b3da-a0689fc94b19" width="290" alt="Northville Logo">
+  <br><strong><span style="font-size: 30px;">Northville II Multi-Purpose Cooperative</span></strong>
+</p>
 
+<div align="center">
+![downloads](https://github.com/user-attachments/assets/0dd64329-8c6f-484a-84b1-b7067182df3f)[[downloads](https://github.com/SushiMini/WebsitePrototype/releases)]
+![license](https://github.com/user-attachments/assets/5c9965b1-7afb-4972-8f42-1cb106d1bfb3)[license](https://github.com/SushiMini/WebsitePrototype?tab=License-1-ov-file)
+</div>
 
-![filterized](https://github.com/user-attachments/assets/a8a78dc2-1569-40d1-88d1-580ac839b75e)
+![Filterized Image](https://github.com/user-attachments/assets/a8a78dc2-1569-40d1-88d1-580ac839b75e)
 
-Explaining what a cooperative is: Cooperatives are people-centred enterprises owned, controlled and run by and for their members to realise their common economic, social, and cultural needs and aspirations. Cooperatives bring people together in a democratic and equal way.
+## What is a Cooperative?
 
-Running into a problem or need help with something? [Check out our Discord](https://discord.gg/P5UR3S7P). If you can't find anything, or would like to suggest something, please [submit an issue here in our GitHub page issues](https://github.com/SushiMini/WebsitePrototype/issues).
- 
+Cooperatives are **people-centered enterprises** owned, controlled, and run by and for their members to realize their common economic, social, and cultural needs and aspirations. Cooperatives bring people together in a democratic and equal way.
+
+### Need Help?
+
+Running into a problem or need assistance? [Join our Discord](https://discord.gg/P5UR3S7P).  
+Can’t find what you’re looking for or want to suggest something? [Submit an issue on GitHub](https://github.com/SushiMini/WebsitePrototype/issues).
 
 ## Frequently Asked Questions
 
-**Q: Why is this uploaded on GitHub?**
+### Q: Why is this uploaded on GitHub?
 
-**A:** Just incase Discord app or the server itself went down or something, we have a backup plan.
+**A:** As a backup plan in case the Discord app or server goes down.
 
-**Q: How do I contribute to the website?**
+### Q: How do I contribute to the website?
 
-**A:** Contributing to our website is easy and we welcome input from all our members! Here's how you can get involved:
+Contributing to our website is easy, and we welcome input from all our members! Follow these steps:
 
-**1.** GitHub Account: If you don't already have one, create a free GitHub account.
+1. **GitHub Account:** Create a free GitHub account if you don't have one.
+2. **Fork the Repository:** Go to the repository page and click the "Fork" button to create a copy in your account.
+3. **Make Changes:** You can edit files directly on GitHub or clone the repository locally.
+4. **Commit Changes:** Write clear, descriptive messages when committing your edits.
+5. **Create a Pull Request:** Go to the original repository, click "New Pull Request," and select your fork/branch.
+6. **Describe Your Changes:** Explain the purpose and impact of your contribution.
+7. **Submit & Discuss:** Once submitted, your changes will be reviewed. The maintainers may request modifications.
 
-**2.** Fork the Repository: Go to our main repository page and click the "Fork" button in the top-right corner. This creates a copy of the project in your account.
+For more detailed instructions, check the [Contribution Guidelines](link-to-guidelines) or ask for help on Discord.
 
-**3.** Make Changes: You can edit files directly on GitHub or clone the repository to your local machine for more extensive changes.
+## Installation
 
-**4.** Commit Changes: After making your edits, commit them with a clear, descriptive message explaining what you've changed and why.
+Download these required tools:
 
-**5.** Create a Pull Request: Go to the original repository and click "New Pull Request". Select your fork and the branch containing your changes.
-
-**6.** Describe Your Changes: Provide a title and description for your pull request, explaining the purpose and impact of your contribution.
-
-**7.** Submit and Discuss: Once submitted, your changes will be reviewed by our maintainers. They may ask questions or request modifications.
-
-Remember, contributions can include fixing typos, updating information, adding new features, or improving documentation. Every contribution, no matter how small, is valuable to our cooperative community!
-
-If you're new to GitHub or need more detailed instructions, please check [Contribution Guidelines](link-to-guidelines) or reach out on our Discord for assistance.
- 
- ## Installing
-Download the following:
-
-[WebsitePrototype](https://github.com/SushiMini/WebsitePrototype/releases) The website prototype in-progress.
-
-[XAMPP](https://www.apachefriends.org/) Website uses server-side languages or databases (e.g., PHP, MySQL), you might need a local server setup. (You can also use alternative server-side languages like: [MAMP](https://www.mamp.info/en/windows/) and [WampServer](https://www.wampserver.com/en/))
-
-[VS Studio Code](https://code.visualstudio.com/) (Visual Studio Code): A versatile and widely-used code editor with various extensions.
-
+- [WebsitePrototype](https://github.com/SushiMini/WebsitePrototype/releases): The in-progress website prototype.
+- [XAMPP](https://www.apachefriends.org/): A local server setup for PHP/MySQL.  
+  Alternatives: [MAMP](https://www.mamp.info/en/windows/), [WampServer](https://www.wampserver.com/en/)
+- [Visual Studio Code](https://code.visualstudio.com/): A versatile code editor.
 
 ## Setup Guide
-Here’s a basic setup guide using XAMPP for PHP:
 
-**1.** Download & Install XAMPP: https://www.apachefriends.org/
+Here's how to set up the project using XAMPP for PHP:
 
-**2.** Navigate to htdocs in the XAMPP installation directory and create a folder for your project.
-[directory example: C:/xampp/htdocs]
-
-**3.** Create "index.html" and "script.php" files in your project folder inside htdocs folder.
-
-**4.** Open "XAMPP Control Panel" and start "Apache" and "MySQL".
-
-**5.** Open your web browser and go to link: http://localhost/phpmyadmin/
-
-**6.** Click "Import" tab
-
-**7.** Click "Choose file" and locate "phplogin.sql" on your project folder inside the xampp
-[directory example: C:/xampp/htdocs/[PROJECTNAME]/database/phplogin.sql]
-
-**8.** Scroll down and click "Import" button
-
-**9.** Open your web browser and go to http://localhost/yourprojectfolder/index.html to view your HTML page and http://localhost/yourprojectfolder/script.php to view the server-side script.
+1. Download & Install XAMPP: [XAMPP Download](https://www.apachefriends.org/)
+2. Create a folder in `htdocs` for your project. (e.g., `C:/xampp/htdocs/[PROJECTNAME]`)
+3. Add `index.html` and `script.php` in your project folder.
+4. Start **Apache** and **MySQL** from the XAMPP Control Panel.
+5. Open [phpMyAdmin](http://localhost/phpmyadmin/).
+6. Click the **Import** tab, choose the `phplogin.sql` file from your project folder, and click **Import**.
+7. Visit `http://localhost/yourprojectfolder/index.html` to see your HTML and `http://localhost/yourprojectfolder/script.php` for the PHP script.
 
 ## Screenshots
-![admindashboard](https://github.com/user-attachments/assets/ead8cafc-b512-4501-931a-c41350868075)
-![adminlogin](https://github.com/user-attachments/assets/69284bab-d7c9-416f-b049-8c52a48de478)
-![userlogin](https://github.com/user-attachments/assets/fb6c84b0-a113-4b9f-a7b4-fc7bbef1b016)
-![userdashboard](https://github.com/user-attachments/assets/b0886f1d-7ad5-4056-9013-c9c073ea7364)
 
+- ![Admin Dashboard](https://github.com/user-attachments/assets/ead8cafc-b512-4501-931a-c41350868075)
+- ![Admin Login](https://github.com/user-attachments/assets/69284bab-d7c9-416f-b049-8c52a48de478)
+- ![User Login](https://github.com/user-attachments/assets/fb6c84b0-a113-4b9f-a7b4-fc7bbef1b016)
+- ![User Dashboard](https://github.com/user-attachments/assets/b0886f1d-7ad5-4056-9013-c9c073ea7364)
 
+## Meet the IT Team Contributors:
 
-
-# Meet the IT Team Contributors:
-## ![Discord Profile Picture](https://cdn.discordapp.com/avatars/736908126791401505/5bfeeaad1fe0cfe86715129903ac480b.png) big boss
-
-## ![Discord Profile Picture](https://cdn.discordapp.com/avatars/798829229785219083/4be6e3b8b94827c99c33a2bd55229874.png) big tea
-
-## ![Discord Profile Picture](https://cdn.discordapp.com/avatars/1144291311692808233/1305d5b700acc981e648993f746cf9a4.png) big hacker
+## ![Big Boss](https://cdn.discordapp.com/avatars/736908126791401505/5bfeeaad1fe0cfe86715129903ac480b.png) Big Boss
+## ![Big Tea](https://cdn.discordapp.com/avatars/798829229785219083/4be6e3b8b94827c99c33a2bd55229874.png) Big Tea
+## ![Big Hacker](https://cdn.discordapp.com/avatars/1144291311692808233/1305d5b700acc981e648993f746cf9a4.png) Big Hacker
