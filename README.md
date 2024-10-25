@@ -1,7 +1,7 @@
 > [!CAUTION]
 > Do not disclose or share any sensitive or private details found in this repository.
 
-> ⚠️ **Warning**: The website is still under development. Any changes made will be reflected here.
+> ⚠️ **Warning**: The website is still under development. Any changes made will be reflected here. ⚠️
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7c76ba70-5845-4a69-b3da-a0689fc94b19" width="450" alt="Northville Logo">
@@ -46,12 +46,11 @@ Can’t find what you’re looking for or want to suggest something? [Submit an 
 **A:** Contributing to our website is easy, and we welcome input from all our members! Follow these steps:
 
 1. **GitHub Account:** Create a free GitHub account.
-2. **Fork the Repository:** Click "Fork" to create a copy in your account.
-3. **Make Changes:** Edit files directly or clone the repository locally.
-4. **Commit Changes:** Write clear, descriptive messages.
-5. **Create a Pull Request:** Go to the original repository and click "New Pull Request."
-6. **Describe Your Changes:** Explain the purpose of your contribution.
-7. **Submit & Discuss:** Your changes will be reviewed by maintainers.
+2. **Make Changes:** Edit files directly or clone the repository locally.
+3. **Commit Changes:** Write clear, descriptive messages.
+4. **Create a Pull Request:** Go to the original repository and click "New Pull Request."
+5. **Describe Your Changes:** Explain the purpose of your contribution.
+6. **Submit & Discuss:** Your changes will be reviewed by maintainers.
 
 For detailed instructions, check the [Contribution Guidelines](link-to-guidelines) or ask for help on Discord.
 
